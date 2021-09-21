@@ -27,8 +27,9 @@
     * Cities with latitudes closer to 0, meaning closer to the equator, have higher Maximum Temperatures.
     ![Latitude Vs. Maximum Temperature Plot](Latitude_vs_Temperature_Plot.png "Latitude Vs. Maximum Temperature plot")
 
-    * Cities in in the southern hemisphere tend to have higher cloudiness percentages.
-    ![City Latitude vs. Cloudiness](Latitude_vs_Cloudiness_plot.png "Latitude Vs. Cloudniness Plot")
+    * Cities close to the equator tend to have higher cloudiness percentages.
+    ![City Latitude vs. Cloudiness](Latitude_vs_Cloudiness_Plot.png "Latitude Vs. Cloudniness Plot")
 
+    * Cities in in the Northern hemisphere tend to have higher wind speeds than cities in the southern hemisphere.
+    ![City Latitude vs. Wind Speed](Latitude_vs_WindSpeed_Plot.png "Latitude Vs. Wind Speed Plot")
 
-    * 

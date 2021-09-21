@@ -26,5 +26,11 @@
 * The following three observations were made about the weather across the globe:
     * Cities with latitudes closer to 0, meaning closer to the equator, have higher Maximum Temperatures.
     ![Latitude Vs. Maximum Temperature Plot](Latitude_vs_Temperature_Plot.png "Latitude Vs. Maximum Temperature plot")
-    * 
+
+    * Cities in in the lower part of the southern hemisphere are less cloudy than cities near the equator and in the norther hemisphere.
+    ![Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression](NorthHemisphere_Cloudiness_vs_Latitude_LinRegression.png "Latitude Vs. cloudniness in Northern Hemisphere Plot")
+
+     ![Southern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression](SouthHemisphere_Cloudiness_vs_Latitude_LinRegression.png "Latitude Vs. cloudniness in Southern Hemisphere Plot")
+
+
     * 

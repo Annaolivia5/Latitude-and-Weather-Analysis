@@ -25,6 +25,6 @@
 
 * The following three observations were made about the weather across the globe:
     * Cities with latitudes closer to 0, meaning closer to the equator, have higher Maximum Temperatures.
-    [Latitude Vs. Maximum Temperature Plot](Latitude_vs_Temperature_Plot.png "Latitude Vs. Maximum Temperature plot")
+    [Latitude Vs. Maximum Temperature Plot](Latitude_vs_Temperature_Plot.png "Click to see Latitude Vs. Maximum Temperature plot")
     * 
     * 

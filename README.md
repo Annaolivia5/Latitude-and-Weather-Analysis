@@ -28,7 +28,7 @@
     ![Latitude Vs. Maximum Temperature Plot](Latitude_vs_Temperature_Plot.png "Latitude Vs. Maximum Temperature plot")
 
     * Cities in in the southern hemisphere tend to have higher cloudiness percentages.
-    ![City Latitude vs. Cloudiness](Latitude_vs_Cloudines_plot.png "Latitude Vs. Cloudniness Plot")
+    ![City Latitude vs. Cloudiness](Latitude_vs_Cloudiness_plot.png "Latitude Vs. Cloudniness Plot")
 
 
     * 

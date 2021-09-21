@@ -22,6 +22,7 @@
         * Maximum high temp = 79F
         * Maximum wind speed = 10 MPH
         * Maximum cloudiness = 0%
+    * ![Humidity Heatmap and Markers](Heatmap.png "Humidity Heatmap")
 
 * The following three observations were made about the weather across the globe:
     * Cities with close to the equator have higher Maximum Temperatures.

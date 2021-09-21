@@ -30,6 +30,5 @@
     * Cities close to the equator tend to have high cloudiness percentages.
     ![City Latitude vs. Cloudiness](Latitude_vs_Cloudiness_Plot.png "Latitude Vs. Cloudniness Plot")
 
-    * Cities near the euqator tend to have lower wind speeds than cities in the northern and southern hemispheres
+    * Cities near the euqator tend to have lower wind speeds than cities in the northern and southern hemispheres.
     ![City Latitude vs. Wind Speed](Latitude_vs_WindSpeed_Plot.png "Latitude Vs. Wind Speed Plot")
-
